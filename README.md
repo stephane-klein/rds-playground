@@ -2,6 +2,11 @@
 
 I use this playground mainly to test things on [AWS RDS](https://en.wikipedia.org/wiki/Amazon_Relational_Database_Service).
 
+My goals in this playground:
+
+- Create a PostgreSQL RDS database with terraform
+- Import a dump from the RDS database to a local database
+
 In this playground I use my [AWS Free tier](https://aws.amazon.com/rds/pricing/) credits:
 
 > - Amazon RDS usage per month: 750 hours (30 days) on select Single-AZ Instance databases. Usage is aggregated across
