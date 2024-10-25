@@ -147,6 +147,8 @@ I can see that everything has worked well 🙂.
 
 ```sh
 $ terraform destroy
+$ docker compose down
+$ sudo rm -rf ./volumes/
 ```
 
 
